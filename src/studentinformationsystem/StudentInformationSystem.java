@@ -38,6 +38,7 @@ public class StudentInformationSystem {
       {
           System.out.println("Remarks: Needs Improvement");
       }
+      System.out.println("Congrats . Study harder ");
       
       
       
